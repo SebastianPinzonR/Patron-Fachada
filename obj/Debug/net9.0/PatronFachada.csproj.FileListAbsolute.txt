@@ -1,0 +1,14 @@
+C:\Users\sebas\source\repos\PatronFachada\bin\Debug\net9.0\PatronFachada.exe
+C:\Users\sebas\source\repos\PatronFachada\bin\Debug\net9.0\PatronFachada.deps.json
+C:\Users\sebas\source\repos\PatronFachada\bin\Debug\net9.0\PatronFachada.runtimeconfig.json
+C:\Users\sebas\source\repos\PatronFachada\bin\Debug\net9.0\PatronFachada.dll
+C:\Users\sebas\source\repos\PatronFachada\bin\Debug\net9.0\PatronFachada.pdb
+C:\Users\sebas\source\repos\PatronFachada\obj\Debug\net9.0\PatronFachada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\PatronFachada\obj\Debug\net9.0\PatronFachada.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\PatronFachada\obj\Debug\net9.0\PatronFachada.AssemblyInfo.cs
+C:\Users\sebas\source\repos\PatronFachada\obj\Debug\net9.0\PatronFachada.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\PatronFachada\obj\Debug\net9.0\PatronFachada.dll
+C:\Users\sebas\source\repos\PatronFachada\obj\Debug\net9.0\refint\PatronFachada.dll
+C:\Users\sebas\source\repos\PatronFachada\obj\Debug\net9.0\PatronFachada.pdb
+C:\Users\sebas\source\repos\PatronFachada\obj\Debug\net9.0\PatronFachada.genruntimeconfig.cache
+C:\Users\sebas\source\repos\PatronFachada\obj\Debug\net9.0\ref\PatronFachada.dll
