@@ -1,5 +1,4 @@
 Este patron facilita el desarrollo de varias maneras
-
 ⚠️ ¿Cuándo conviene o no usarla? Úsala cuando: 
 
 Tienes subsistemas complejos o con APIs difíciles. 
